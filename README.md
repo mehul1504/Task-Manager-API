@@ -33,4 +33,39 @@ To run the Task Manager API locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mehul1504/Task-Manager-API.git
+
+2. Navigate to the project directory
+
+```bash
+cd task-manager-api
+
+3. Install dependencies:
+
+```bash
+npm install
+
+4. Start the Server:
+
+```bash
+npm start
+
+## Usage
+Once the server is running, you can interact with the API using tools like Postman or curl. Here are some example API requests:
+
+Endpoints:
+
+GET /tasks: Retrieve all tasks.
+GET /tasks/:id: Retrieve a single task by its ID.
+POST /tasks: Create a new task.
+PUT /tasks/:id: Update an existing task.
+DELETE /tasks/:id: Delete a task.
+
+## Testing
+# Run the tests for Task Manager API
+
+```bash
+npm test
+
+
+

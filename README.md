@@ -34,7 +34,7 @@ To run the Task Manager API locally, follow these steps:
 
 ```bash
 git clone https://github.com/mehul1504/Task-Manager-API.git
-
+'''bash
 2. Navigate to the project directory
 
 ```bash

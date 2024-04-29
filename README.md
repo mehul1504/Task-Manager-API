@@ -31,11 +31,9 @@ Task Manager API provides a platform for managing tasks. It supports various ope
 To run the Task Manager API locally, follow these steps:
 
 1. Clone the repository:
-
-```bash
 git clone https://github.com/mehul1504/Task-Manager-API.git
-'''bash
-2. Navigate to the project directory
+
+## Navigate to the project directory
 
 ```bash
 cd task-manager-api
